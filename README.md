@@ -1,6 +1,6 @@
 ## Scribe
 
-A modern note-taking web application like Google Docs, built with NextJS, Tailwind CSS and third-party service: Liveblocks. Together, you have a real-time application for document-writing collaboration, tailored to foster productivity. Live preview [here](https://scribe.vercel.app)
+A modern note-taking web application like Google Docs, built with NextJS, Tailwind CSS and third-party service: Liveblocks. Together, you have a real-time application for document-writing collaboration, tailored to foster productivity. Live preview [here](https://scribe-ashy.vercel.app)
 
 ![Scribe](/public/assets/images/thumbnail.png)
 
